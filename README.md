@@ -67,12 +67,6 @@ Database normalization and denormalization
 📊 Repository Milestones & Stats
 I’m tracking my daily progress here, with the following milestones:
 
-Total Problems Solved: [Number of problems solved]
-
-Current Focus Area: [E.g., Joins, Subqueries, Performance Optimization]
-
-SQL Mastery Level: [Beginner / Intermediate / Advanced]
-
 Each day I reflect on my SQL journey and aim to move to the next level, refining both the quality and efficiency of my code.
 
 💡 How This Repository Benefits Me
